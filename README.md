@@ -12,8 +12,8 @@ Create a React component called `FilteredNumberList` that generates a list of nu
   - Include all even numbers.
   - Exclude numbers divisible by 50.
   - Include numbers divisible by 10 with an exclamation mark (e.g., 10!).
-	- Non-numeric values or negative values are not allowed
-
+  - Non-numeric values or negative values are not allowed.
+  
 - Display the generated list of numbers separated by spaces.
 
 - Calculate and display the summation of all included numbers.
